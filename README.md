@@ -1,3 +1,4 @@
 # ネイル装着アプリ
-![gif](https://github.com/kotabrog/ft_mini_ls/blob/main/image/ft_mini_ls.gif)
+### 仮想環境の構築
+
 
