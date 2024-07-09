@@ -20,3 +20,11 @@ ltkinterのインストール
 Ø(gesture)% pip install pysimplegui
 Ø(gesture)% pip install py2app
 ```
+
+### 実装
+
+nailapp.pyを「gesture」フォルダへ移動
+```
+(gesture)% python nailapp.py
+
+```
