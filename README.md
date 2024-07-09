@@ -1,5 +1,5 @@
 # ネイル装着アプリ
-### 仮想環境の構築
+## 仮想環境の構築
 
 ltkinterのインストール
 ```
@@ -21,10 +21,12 @@ ltkinterのインストール
 Ø(gesture)% pip install py2app
 ```
 
-### 実装
+## 実装
 
 nailapp.pyを「gesture」フォルダへ移動
 ```
 (gesture)% python nailapp.py
 
 ```
+
+終了時はdeactivateを忘れずに! 同様に， 開始時のsource ./bin/activateも忘れずに!
