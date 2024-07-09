@@ -13,3 +13,10 @@ ltkinterのインストール
 Ø% cd gesture
 Ø% source ./bin/activate
 ```
+
+有効化完了.
+続けてGUIアプリ用のライブラリインストール 
+```
+Ø(gesture)% pip install pysimplegui
+Ø(gesture)% pip install py2app
+```
